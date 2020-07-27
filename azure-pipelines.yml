@@ -7,7 +7,7 @@ pool:
 variables:
   subscription: Free Trail (9fa4795d-77b9-463a-a19f-e351db9dc12e)
   resourceGroup: resourcegroup-tfstate
-  storageAccount: terraformtfstateskip
+  storageAccount: terraformtfstateskip1
   container: tfstate
   tfstateFile: terraform.tfstate
   anyTfChanges: false
